@@ -1,0 +1,7 @@
+altair==5.5.0
+folium==0.19.5
+matplotlib==3.7.5
+pandas==2.2.3
+seaborn==0.13.2
+streamlit==1.45.0
+streamlit_folium==0.25.0
